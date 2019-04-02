@@ -7,6 +7,6 @@ closely based on his Java version from here:
 
 This closely follows Riccardo's java code, so that this rust version
 can easily be compared with the java version. I will do some variation
-on this, but as a separate fork.
+on this, but in a separate repo: <https://github.com/joagr/WeeGP>.
 
 Please see Riccardo's web page for an overview and usage notes.
